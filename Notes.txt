@@ -1,3 +1,5 @@
+link to competition page: https://communities.aisnet.org/aisscolc2025/scolc2025-challenge
+
 Main Idea:
 - create an evaluator for existing and proposed datacenters to score how sustainable they are. 
 - it gives a score on how sustainable a proposed data center is, based on different variables (grid capacity, water use, local environment impact)
