@@ -1,0 +1,10 @@
+Main Idea:
+- create an evaluator for existing and proposed datacenters to score how sustainable they are. 
+- it gives a score on how sustainable a proposed data center is, based on different variables (grid capacity, water use, local environment impact)
+- provide suggestions to improve a score?
+
+
+Questions for product:
+- create a model of some kind, or have some other kind of logic to score?
+- need to research most important categories for sustainability
+- does an evaluator like this already exist?
