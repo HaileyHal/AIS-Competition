@@ -8,3 +8,24 @@ Questions for product:
 - create a model of some kind, or have some other kind of logic to score?
 - need to research most important categories for sustainability
 - does an evaluator like this already exist?
+
+PROBLEM: 
+from Uptime Institute Global Data Center Survey 2024: "Fewer than half of data center owners and operators are tracking the metrics needed to assess their sustainability and meet pending regulatory requirements". People might not be tracking what we need, and if they are, there isn't an existing standard of sustainability. 
+PUE is the most common sustainability metric, but it doesn't account for water consumption and other factors, so this is where our opportunity is.
+
+Sustainability factors/notes:
+- PUE- highest impact
+- total energy consuption- 2nd priority, including grid capacity and renewable energy sourcing- large environmental impact when renewable energy is not used
+secondary impacts:
+- cooling sysstems and water usage
+
+- PUE (power usage effectiveness): estimates the energy efficency of a facility and helps track change over time with a simple calculationL total facility power divided by power consumption of IT equipment. Good PUE score: between 1.2-1.4. 1.0 is a perfect score, and higher than 1.5 is okay, inefficient is 3 or higher.
+- kind of energy source center is using- renewable?
+- cooling and thermal management- using outdoor/free air when temps are good vs energy to use AC. immersion cooling and heat recovery systems are options
+- water usage: water is used for cooling. is the water recycled? are alternate cooling methods used? does water use strain local supplies?
+- energy grid capacity
+- construction materials/design- LEED compliant?
+- waste heat recovery- capturing heat waste and resuing it to warm nearby buildings and stuff
+
+
+- penalty for not reporting on certain sustainability metrics? 
