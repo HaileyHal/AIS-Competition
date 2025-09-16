@@ -9,11 +9,13 @@ Main Idea:
 Questions for product:
 - create a model of some kind, or have some other kind of logic to score?
 - need to research most important categories for sustainability
-- does an evaluator like this already exist?
+- does an evaluator like this already exist?- There is an existing tier system. https://uptimeinstitute.com/tiers
 
 PROBLEM: 
 from Uptime Institute Global Data Center Survey 2024: "Fewer than half of data center owners and operators are tracking the metrics needed to assess their sustainability and meet pending regulatory requirements". People might not be tracking what we need, and if they are, there isn't an existing standard of sustainability. 
 PUE is the most common sustainability metric, but it doesn't account for water consumption and other factors, so this is where our opportunity is.
+The EU has more requirements for sustainability levels and required reporting. It might be useful to use EU data for training/building. https://www.datacentermap.com/research/ - contains global info for datacenters. sent request email- might cost money
+file:///C:/Users/haile/Downloads/assessment%20of%20the%20energy%20performance%20and%20sustainability-MJ0125107ENN.pdf - EU official report on their datacenters
 
 Sustainability factors/notes:
 - PUE- highest impact
